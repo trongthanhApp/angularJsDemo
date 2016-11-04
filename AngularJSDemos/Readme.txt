@@ -1,6 +1,6 @@
 The Visual Studio 2012 solution is designed to run with IIS Express. To open it follow these steps:
 
-1. Start Visual Studio 2012
+1. Start Visual Studio 2013
 2. Select File --> Open Website and select the AngularJSDemos folder
 3. Right-click on the website project and select Use IIS Express from the menu
 
