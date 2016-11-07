@@ -1,4 +1,4 @@
-VISUAL STUDIO OPTION:
+1 - VISUAL STUDIO OPTION:
 
 The Visual Studio 2013 solution is designed to run with IIS Express. To open it follow these steps:
 
@@ -10,11 +10,18 @@ You should be all set.
 
 
 
-NODE.JS OPTION:
+2 - NODE.JS OPTION:
 
 If you want to run the site using Node.js (install it from http://nodejs.org) run the following at the command-prompt from within the AngularJSDemos folder:
 
 node server.js
 
 Now navigate to http://localhost:8080/index.html in your browser.
+
+
+3 - Install Grunt :
+
+npm install -g grunt-cli grunt
+
+
 
